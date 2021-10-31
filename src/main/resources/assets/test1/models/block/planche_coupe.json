@@ -1,7 +1,7 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/thin_block",
   "textures": {
-    "all": "test1:blocks/planchecoupebot",
+    "top": "test1:blocks/planchecoupebot",
     "particle": "test1:blocks/planchecoupebot"
   }
   "elements": [
