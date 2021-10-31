@@ -32,7 +32,7 @@
       "name": "FarmerCouteau",
       "type": "tool",
       "sortid": 3,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "farmer_couteau"
