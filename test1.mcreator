@@ -32,7 +32,7 @@
       "name": "FarmerCouteau",
       "type": "tool",
       "sortid": 3,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "farmer_couteau"
@@ -45,7 +45,8 @@
       "advancements.farmer_test.descr": "test",
       "advancements.farmer_exploitation.descr": "Wouah",
       "advancements.farmer_test.title": "Farmer Test",
-      "advancements.farmer_exploitation.title": "Farmer Exploitation"
+      "advancements.farmer_exploitation.title": "Farmer Exploitation",
+      "block.test1.planche_coupe": "Planche Coupe"
     }
   },
   "foldersRoot": {
