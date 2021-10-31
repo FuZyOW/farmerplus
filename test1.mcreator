@@ -54,6 +54,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sliced_oignons"
+    },
+    {
+      "name": "PlancheCoupeOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "planche_coupe_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
