@@ -27,12 +27,22 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "farmer_couteau"
+    },
+    {
+      "name": "FarmerOignon",
+      "type": "food",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "farmer_oignon"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.test1.farmer_oignon": "Oignon",
       "advancements.farmer_test.descr": "test",
       "advancements.farmer_exploitation.descr": "Wouah",
       "item.test1.farmer_couteau": "Farmer Couteau",
