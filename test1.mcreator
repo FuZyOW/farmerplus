@@ -9,6 +9,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "farmer_test"
+    },
+    {
+      "name": "FarmerExploitation",
+      "type": "achievement",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "farmer_exploitation"
     }
   ],
   "variable_elements": [],
@@ -16,7 +25,9 @@
   "language_map": {
     "en_us": {
       "advancements.farmer_test.descr": "test",
-      "advancements.farmer_test.title": "Farmer Test"
+      "advancements.farmer_exploitation.descr": "Wouah",
+      "advancements.farmer_test.title": "Farmer Test",
+      "advancements.farmer_exploitation.title": "Farmer Exploitation"
     }
   },
   "foldersRoot": {
