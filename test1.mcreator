@@ -71,6 +71,15 @@
           }
         ]
       }
+    },
+    {
+      "name": "Coupable",
+      "type": "tag",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coupable"
     }
   ],
   "variable_elements": [],
