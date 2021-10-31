@@ -1,27 +1,12 @@
 
 package net.test.lol.item;
 
-import net.test.lol.Test1ModElements;
-
-import net.minecraftforge.registries.ObjectHolder;
-
-import net.minecraft.world.World;
-import net.minecraft.util.text.StringTextComponent;
-import net.minecraft.util.text.ITextComponent;
-import net.minecraft.item.crafting.Ingredient;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
-import net.minecraft.item.Item;
-import net.minecraft.item.IItemTier;
-import net.minecraft.item.AxeItem;
-import net.minecraft.client.util.ITooltipFlag;
-
-import java.util.List;
-
 @Test1ModElements.ModElement.Tag
 public class FarmerCouteauItem extends Test1ModElements.ModElement {
+
 	@ObjectHolder("test1:farmer_couteau")
 	public static final Item block = null;
+
 	public FarmerCouteauItem(Test1ModElements instance) {
 		super(instance, 3);
 	}
@@ -53,6 +38,7 @@ public class FarmerCouteauItem extends Test1ModElements.ModElement {
 				return Ingredient.EMPTY;
 			}
 		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
+
 			@Override
 			public boolean hasContainerItem() {
 				return true;
@@ -78,6 +64,8 @@ public class FarmerCouteauItem extends Test1ModElements.ModElement {
 				super.addInformation(itemstack, world, list, flag);
 				list.add(new StringTextComponent("couteau pour planche coupe"));
 			}
+
 		}.setRegistryName("farmer_couteau"));
 	}
+
 }
