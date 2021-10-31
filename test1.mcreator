@@ -18,6 +18,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "farmer_exploitation"
+    },
+    {
+      "name": "FarmerCouteau",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "farmer_couteau"
     }
   ],
   "variable_elements": [],
@@ -26,6 +35,7 @@
     "en_us": {
       "advancements.farmer_test.descr": "test",
       "advancements.farmer_exploitation.descr": "Wouah",
+      "item.test1.farmer_couteau": "Farmer Couteau",
       "advancements.farmer_test.title": "Farmer Test",
       "advancements.farmer_exploitation.title": "Farmer Exploitation"
     }
