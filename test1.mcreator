@@ -45,6 +45,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "farmer_oignon"
+    },
+    {
+      "name": "SlicedOignons",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sliced_oignons"
     }
   ],
   "variable_elements": [],
@@ -52,10 +61,13 @@
   "language_map": {
     "en_us": {
       "item.test1.farmer_oignon": "Oignon",
+      "item.test1.sliced_oignons": "Sliced Oignons",
       "advancements.farmer_test.descr": "test",
       "advancements.farmer_exploitation.descr": "Wouah",
+      "item.test1.farmer_couteau": "Farmer Couteau",
       "advancements.farmer_test.title": "Farmer Test",
-      "advancements.farmer_exploitation.title": "Farmer Exploitation"
+      "advancements.farmer_exploitation.title": "Farmer Exploitation",
+      "block.test1.planche_coupe": "Planche Coupe"
     }
   },
   "foldersRoot": {
