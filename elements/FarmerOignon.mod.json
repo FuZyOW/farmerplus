@@ -3,7 +3,7 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "oignon",
+    "texture": "onion",
     "customModelName": "Normal",
     "name": "Oignon",
     "rarity": "COMMON",

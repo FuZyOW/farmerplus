@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "test1:items/couteau"
+    "layer0": "test1:items/netherite_knife"
   }
 }
