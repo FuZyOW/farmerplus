@@ -27,6 +27,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "planche_coupe"
+    },
+    {
+      "name": "FarmerCouteau",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "farmer_couteau"
     }
   ],
   "variable_elements": [],
@@ -36,8 +45,7 @@
       "advancements.farmer_test.descr": "test",
       "advancements.farmer_exploitation.descr": "Wouah",
       "advancements.farmer_test.title": "Farmer Test",
-      "advancements.farmer_exploitation.title": "Farmer Exploitation",
-      "block.test1.planche_coupe": "Planche Coupe"
+      "advancements.farmer_exploitation.title": "Farmer Exploitation"
     }
   },
   "foldersRoot": {
