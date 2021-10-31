@@ -1,7 +1,12 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/cube",
   "textures": {
-    "all": "test1:blocks/planchecoupebot",
+    "down": "test1:blocks/planchecoupebot",
+    "up": "test1:blocks/planchecoupebot",
+    "north": "test1:blocks/planchecoupecote",
+    "east": "test1:blocks/planchecoupecote",
+    "south": "test1:blocks/planchecoupecote",
+    "west": "test1:blocks/planchecoupecote",
     "particle": "test1:blocks/planchecoupebot"
   }
 }
